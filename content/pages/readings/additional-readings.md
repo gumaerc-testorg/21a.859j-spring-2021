@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains additional readings related to the course topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -38,7 +39,7 @@ Listed below are further readings for sessions 2–10.
 *   Alatas, Syed Farid. “Ibn Khaldūn.” Chapter 1 in _The Wiley-Blackwell Companion to Major Social Theorists: Vol I: Classical Social Theorists_. Edited by George Ritzer and Jeffrey Stepinsky. Wiley-Blackwell, 2011. ISBN: 9781444330786. \[Preview with [Google Books](https://www.google.com/books/edition/The_Wiley_Blackwell_Companion_to_Major_S/MDwdmVUMIh8C?hl=en&gbpv=1)\]
 *   Comte, August. _[A General View of Positivism](https://www.google.com/books/edition/A_General_View_of_Positivism/SgaHpaeZAewC?hl=en&gbpv=1)_. Trübner & Co., 1865, pp. 1–7, 64–81, 227–302. 
 *   Layne, Linda L., ed. “Introduction: The Child as Gift.” In _Transformative Motherhood: On Giving and Getting in a Consumer Culture_. NYU Press, 1999. ISBN: ‎9780814751558. \[Preview with [Google Books](https://www.google.com/books/edition/Transformative_Motherhood/ABYVCgAAQBAJ?hl=en&gbpv=1)\]
-*   Puar, Jasbir K. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Homonationalism as Assemblage: Viral Travels, Affective Sexualities.” (PDF - 11MB)](https://completejusticepodcast.s3.ap-south-1.amazonaws.com/Jasbir+Puar+-+Homonationalism+As+Assemblage+-+Viral+Travels%2C+Affective+Sexualities.pdf) _Jindal Global Law Review_ 4, no. 2 (2013): 23–43.
+*   Puar, Jasbir K. [“Homonationalism as Assemblage: Viral Travels, Affective Sexualities.” (PDF - 11MB)](https://completejusticepodcast.s3.ap-south-1.amazonaws.com/Jasbir+Puar+-+Homonationalism+As+Assemblage+-+Viral+Travels%2C+Affective+Sexualities.pdf) _Jindal Global Law Review_ 4, no. 2 (2013): 23–43.
 *   Helmreich, Stefan. “[Wave Theory ~ Social Theory](https://read.dukeupress.edu/public-culture/article/32/2%20(91)/287/166080/Wave-Theory-Social-Theory).” _Public Culture_ 32, no. 2 (2020): 287–326.
 
 **Session 5: Bureaucracies, States, Prisons, Publics**

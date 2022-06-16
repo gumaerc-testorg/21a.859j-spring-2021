@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the course description, requirements, grading policy,
+  and a topics calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -30,7 +32,7 @@ Each week’s session has two parts and each week two students each offer presen
 
 Submitting papers or responses by midnight the day before our class meeting will help presenters (and me) prepare for class, but I understand that we are all working under a multiplicity of demands and stressors—the Covid-19 pandemic makes these very exceptional times—so these may be submitted at any time prior to class. You may skip one response document over the course of the term without it affecting your final grade.
 
-Class participation, discussion leading, and response papers each count for one-third of the final grade. For detail on the response papers, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+Class participation, discussion leading, and response papers each count for one-third of the final grade. For detail on the response papers, see the {{% resource_link 8673605a-2433-a87e-ae7e-2409a60a62e4 "Assignments" %}} section.
 
 The Fine Print
 --------------
