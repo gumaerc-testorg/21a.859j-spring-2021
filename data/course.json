@@ -43,7 +43,7 @@
     "website": "21a-859j-social-theory-and-analysis-spring-2021"
   },
   "course_title": "Social Theory and Analysis",
-  "course_description": "This subject presents a survey of social theory from the 17{{< sup \"th\" >}} century to the present. It focuses on the historical contexts out of which theory arises, the utility and limitations of older theories for present conditions, and the creation of new theory out of contemporary circumstances.\n",
+  "course_description": "This subject presents a survey of social theory from the 17th century to the present. It focuses on the historical contexts out of which theory arises, the utility and limitations of older theories for present conditions, and the creation of new theory out of contemporary circumstances.",
   "department_numbers": [
     "21A",
     "STS"
@@ -57,6 +57,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "6634adf8-0c1d-4b24-846e-43913324f8c4",
+  "site_uid": "88ec1132-04b8-4295-966a-87cc1e882898",
+  "site_short_id": "21a.859j-spring-2021",
   "title": "Course Metadata"
 }
